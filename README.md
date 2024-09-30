@@ -22,3 +22,6 @@ Este proyecto requiere las siguientes librerías:
 
 Este sistema no solo se limita a la optimización de rutas en el ámbito del transporte público, sino que también puede ser aplicado en otros campos que requieran búsqueda y optimización.
 
+* Brayan Steven Caballero Sanchez, 
+* Universitaria Iberoamericana, 
+* Inteligencia artificial
