@@ -1,11 +1,6 @@
 # Proyecto Transmilenio: Optimización de Rutas
 
-Este proyecto tiene como objetivo desarrollar un sistema que permita buscar la mejor ruta dentro del sistema de portales y estaciones de Transmilenio, utilizando algoritmos de búsqueda en Inteligencia Artificial. Para lograrlo, se implementa una estructura de datos basada en árboles y grafos, facilitando tanto búsquedas informadas como no informadas a través de los siguientes algoritmos:
-
-- **BFS (Breadth-First Search)**: Búsqueda por anchura, que utiliza una cola para explorar los nodos vecinos.
-- **DFS (Depth-First Search)**: Búsqueda por profundidad, que utiliza una pila para recorrer todos los nodos adyacentes.
-- **UCS (Uniform Cost Search)**: Búsqueda por costo unitario, que evalúa los costos mediante una cola de prioridades.
-- **A***: Algoritmo de búsqueda informada que considera tanto el costo unitario de un vértice como un costo heurístico basado en la distancia.
+Este proyecto tiene como objetivo desarrollar un sistema que permita buscar la mejor ruta dentro del sistema de portales y estaciones de Transmilenio, utilizando algoritmos de búsqueda en Inteligencia Artificial. Para lograrlo, se implementa una estructura de datos basada en árboles y grafos.
 
 ## Características
 
